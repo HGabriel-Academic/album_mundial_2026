@@ -15,3 +15,7 @@ resultado: la creacion de la estructura deseada junto a la instalacion de depend
 utilidad: Muy util
 
 prompt utilizado: " rellenar el archivo stickerCard" con los datos entregados por el profesor.
+resultado: la carga total de los datos y la correción de caracteres.
+utilidad:util
+
+promt utilziado: modifica app.jsx para importar y mostrar en consola el array de figuritas y verifica que la app corre en localhost:5173
