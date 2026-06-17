@@ -1,0 +1,17 @@
+prompt utilizado:"crea la estructura de carpetas para un proyecto React con Vite siguiendo esta referencia:
+
+album-mundial-2026/
+├── src/
+│ ├── components/
+│ │ └── StickerCard.jsx
+│ ├── data/
+│ │ └── stickers.js
+│ ├── App.jsx
+│ └── main.jsx
+├── index.html
+└── package.json
+"
+resultado: la creacion de la estructura deseada junto a la instalacion de dependencias "npm install", posterior correcion de vulnerabilidades con el comando "npm audit fix --force"
+utilidad: Muy util
+
+prompt utilizado: " rellenar el archivo stickerCard" con los datos entregados por el profesor.
